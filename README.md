@@ -1,7 +1,5 @@
 # TicTacToe
 
-*Using CollectionView
-
 Making Simple TicTacToe Using CollectionView
 
 *UIElements Used
